@@ -58,7 +58,7 @@ All references follow APA 7th edition format.
 
 - Ministry of Justice of Cote d'Ivoire. (2023). *Judicial Statistics Yearbook 2023*. Direction des Affaires Civiles et Penales.
 
-- DJORO, Y. L. A. (2024). *Judicial Data Governance Framework (JDGF): Tools, methodology and maturity model for governing data in African judicial institutions*. GitHub Repository. https://github.com/lioneldyla/jdgf-framework
+- DJORO, Y. L. A. (2026). *Judicial Data Governance Framework (JDGF): Tools, methodology and maturity model for governing data in African judicial institutions*. GitHub Repository. https://github.com/lioneldyla/jdgf-framework
 
 ---
 
