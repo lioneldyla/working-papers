@@ -62,4 +62,4 @@ All references follow APA 7th edition format.
 
 ---
 
-*Last updated: June 2026 — References to be expanded as research progresses.*
+*Last updated: June 2026 - References to be expanded as research progresses.*
