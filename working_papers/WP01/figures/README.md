@@ -1,4 +1,4 @@
-# Figures — WP01
+# Figures - WP01
 
 > Judicial Data Governance and Responsible Artificial Intelligence: An Analytical Framework for African Judicial Institutions
 
